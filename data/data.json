@@ -1,0 +1,11 @@
+{
+    "qa":{
+        "url": "HELLO"
+    },
+    "prod":{
+        "url": "HELLO"
+    },
+    "local":{
+        "url": ""
+    }
+}
